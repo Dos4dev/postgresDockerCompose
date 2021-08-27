@@ -1,0 +1,10 @@
+adapter=postgresql
+encoding=utf8
+username=user
+password=secret
+database=tempdb
+reconnect=true
+host=localhost
+port=5432
+schema=<database schema>
+skip_migrations=<false by default, set to true to skip migrations>
