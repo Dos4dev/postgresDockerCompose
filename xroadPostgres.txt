@@ -1,6 +1,6 @@
 adapter=postgresql
 encoding=utf8
-username=user
+username=xdev
 password=secret
 database=tempdb
 reconnect=true

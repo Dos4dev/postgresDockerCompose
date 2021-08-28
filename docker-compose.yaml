@@ -25,7 +25,7 @@ services:
       - 5432:5432
 
     environment:
-      POSTGRES_USER: user # The PostgreSQL user (useful to connect to the database)
+      POSTGRES_USER: xdev # The PostgreSQL user (useful to connect to the database)
       POSTGRES_PASSWORD: secret # The PostgreSQL password (useful to connect to the database)
       POSTGRES_DB: tempdb # The PostgreSQL default database (automatically created at first launch)
 
